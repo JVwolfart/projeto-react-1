@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TextInput /> should have a value of searchValue 1`] = `
+<input
+  class="text-input"
+  placeholder="Pesquise por posts"
+  type="search"
+  value="testando"
+/>
+`;
